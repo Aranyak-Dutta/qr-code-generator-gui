@@ -1,6 +1,6 @@
 # QR Code Generator wih GUI
 A simple desktop application built with Python 3.13.5 and libraries such as tkinter 8.6, qrcode 8.2 and Pillow 11.3.0.<br>
-This applications generates QR code uopn entering URL/Text and saves it to the memory.<br>
+This applications generates QR code upon entering URL/Text and saves it to the memory.<br>
 ## Features
 *   **Generate QR Codes Instantly**:
 Create QR codes from text, link and data.
